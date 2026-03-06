@@ -201,10 +201,10 @@
 | 🎓 Título | 🏫 Institución |
 |:---|:---|
 | **Ingeniería de Sistemas** | Universitaria de Colombia |
-| **Bachiller Comercial** | — |
+| **Bachiller Comercial** | "Sagrado Corazón de Jesús" |
 | **Diplomado en Gestión de Proyectos** | Universitaria de Colombia |
-| **Diplomado en Marketing Digital** | — |
-| **Auxiliar Contable** | — |
+| **Diplomado en Marketing Digital** | EAN |
+| **Auxiliar Contable** | "Sagrado Corazón de Jesús" |
 
 </div>
 
