@@ -41,7 +41,7 @@
 |:---:|:---:|:---:|:---:|
 | APIs, webhooks y conectores nativos para cualquier ecosistema | Decisiones automáticas impulsadas por modelos de IA | Orquestación visual de procesos en tiempo real | OAuth 2.0, JWT, cifrado end-to-end y auditoría completa |
 
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
